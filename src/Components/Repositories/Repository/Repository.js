@@ -32,7 +32,7 @@ class Repository extends Component{
                                 <td>{repo.full_name}</td>
                                 <td>{repo.name}</td>
                                 <td>{repo.description}</td>
-                                <td>{repo.html_url}</td>
+                                <td><a href={repo.html_url} target="_blank">Acessar repositório</a></td>
                             </tr>
                         )
                     })

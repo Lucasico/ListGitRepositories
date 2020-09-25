@@ -28,3 +28,7 @@
     background-color: blue;
     color: white;
   }
+  td a{
+    color: white;
+    text-decoration:none; 
+  }
