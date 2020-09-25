@@ -13,6 +13,7 @@
 .Content input{
     color: white;
     font-weight: bold;
+    width: 100%;
     font-size: 15px;
     border: none;
     border-bottom: 2px solid white;
@@ -29,6 +30,7 @@
 .Content button{
     font-weight: bold;
     color: white;
+    width: 100%;
     margin-top: 15px;
     border: none;
     cursor: pointer;

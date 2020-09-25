@@ -1,0 +1,12 @@
+.UserNotFound{
+    display: flex;
+    height: 40px;
+    flex-direction: column; 
+    background-color: #212025;
+    border-radius: 4px;
+    width: 250px;
+    padding: 16px;
+    text-align: center;
+    margin: 10px;
+    color: red;
+}

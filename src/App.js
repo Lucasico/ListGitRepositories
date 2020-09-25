@@ -6,10 +6,8 @@ import './App.css';
 function App() {
   return (
     <div className="flex-container">
-      <section>
          <SeachUser />
-      </section>
-         <Repositories />
+      
     </div>
   );
 }
