@@ -1,0 +1,46 @@
+.Content {
+    display: flex;
+    height: 100px;
+    flex-direction: column; 
+    background-color: #212025;
+    border-radius: 4px;
+    width: 250px;
+    padding: 16px;
+    text-align: center;
+    margin: 10px;
+}
+
+.Content input{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    border-bottom: 2px solid white;
+    margin-bottom: 15px;
+    background-color: #212025;
+    height: 25px;
+}
+
+.Content input:hover{
+    transition: 0.5s;
+    border-bottom: 2px solid #0000CD;
+}
+
+.Content button{
+    font-weight: bold;
+    color: white;
+    margin-top: 15px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 15px;
+    background-color: blue;
+    border-radius: 4px;
+    height: 35px;
+}
+
+.Content button:hover{
+    background-color: #191970;
+    transition: 0.5s;
+}
+
+

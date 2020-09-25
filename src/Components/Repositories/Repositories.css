@@ -1,0 +1,30 @@
+.listRepos {
+    height: 50%;
+    width: 80%;
+    background-color:#212025;
+    border-radius: 4px;
+    padding: 16px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .customers td, .customers th {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .customers tr:hover {background-color: #121214;}
+  
+  .customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: blue;
+    color: white;
+  }
